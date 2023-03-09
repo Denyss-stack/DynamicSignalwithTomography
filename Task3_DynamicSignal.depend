@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676387045 source:f:\codeblocks\task3_dynamicsignal\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<graphics.h>
+	<conio.h>
+
